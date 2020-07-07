@@ -19,6 +19,6 @@
 	spawn_list = list(/obj/structure/grille, /obj/structure/window/reinforced/tinted/fulltile, /obj/machinery/door/firedoor/window)
 
 /obj/effect/spawner/structure/window/plasma/reinforced/shutters
-	name = "plasma window spawner"
+	name = "reinforced plasma window spawner"
 	icon_state = "shprwindow_spawner"
 	spawn_list = list(/obj/structure/grille, /obj/structure/window/plasma/reinforced/fulltile, /obj/machinery/door/firedoor/window)

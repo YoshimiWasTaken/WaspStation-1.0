@@ -80244,6 +80244,10 @@
 /obj/machinery/door/firedoor/border_only,
 /turf/open/floor/plating,
 /area/maintenance/port/aft)
+"uLT" = (
+/obj/effect/spawner/structure/window/reinforced/shutters,
+/turf/open/floor/plating,
+/area/maintenance/starboard/aft)
 "uLY" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden,
 /obj/effect/turf_decal/stripes/line{
@@ -102185,7 +102189,7 @@ ceu
 ruF
 dux
 dux
-bXE
+xzz
 dux
 dux
 aaa
@@ -118905,7 +118909,7 @@ cJT
 cIg
 tLk
 cMp
-ciL
+uLT
 aaa
 aaa
 aaf
